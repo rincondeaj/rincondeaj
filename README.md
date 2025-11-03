@@ -47,36 +47,25 @@ I'm passionate about the intersection of **Machine Learning** and **Cybersecurit
     <a href="https://github.com/rincondeaj/Sistemas-inteligentes-opencv"><img alt="GitHub issues" src="https://img.shields.io/github/issues/rincondeaj/Sistemas-inteligentes-opencv?style=flat-square&label=Issues&labelColor=343b41"></a>
     <a href="https://github.com/rincondeaj/Sistemas-inteligentes-opencv/pulls"><img alt="GitHub PRs" src="https://img.shields.io/github/issues-pr/rincondeaj/Sistemas-inteligentes-opencv?style=flat-square&label=Pull%20Requests&labelColor=343b41"></a>
 
-* **[Project-Name-2](https://github.com/YOUR_USERNAME/Project-Name-2)** (e.g., *Network Intrusion Detector*)
+* **[App web](https://github.com/rincondeaj/PW-GM2-Equipo5)** (Spring boot applications for web design)
     <br/>
-    <a href="https://github.com/YOUR_USERNAME/Project-Name-2/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/Project-Name-2?style=flat-square&label=Stars&labelColor=343b41&color=blueviolet"></a>
-    <a href="https://github.com/YOUR_USERNAME/Project-Name-2/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/YOUR_USERNAME/Project-Name-2?style=flat-square&label=Forks&labelColor=343b41&color=lightgrey"></a>
-    <a href="https://github.com/YOUR_USERNAME/Project-Name-2/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/YOUR_USERNAME/Project-Name-2?style=flat-square&label=Issues&labelColor=343b41"></a>
-    <a href="https://github.com/YOUR_USERNAME/Project-Name-2/pulls"><img alt="GitHub PRs" src="https://img.shields.io/github/issues-pr/YOUR_USERNAME/Project-Name-2?style=flat-square&label=Pull%20Requests&labelColor=343b41"></a>
-
----
-
-### ✍️ My Latest Posts & Write-ups
-
-* [My Analysis of the 'XYZ' Vulnerability](link-to-post) - *A brief description of the post.*
-* [A Beginner's Guide to Adversarial Attacks on LNNs](link-to-post) - *A brief description.*
-* [HackTheBox 'MachineName' Write-up](link-to-post) - *A brief description.*
+    <a href="https://github.com/rincondeaj/PW-GM2-Equipo5/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/rincondeaj/PW-GM2-Equipo5?style=flat-square&label=Stars&labelColor=343b41&color=blueviolet"></a>
+    <a href="https://github.com/rincondeaj/PW-GM2-Equipo5/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rincondeaj/PW-GM2-Equipo5?style=flat-square&label=Forks&labelColor=343b41&color=lightgrey"></a>
+    <a href="https://github.com/rincondeaj/PW-GM2-Equipo5/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/rincondeaj/PW-GM2-Equipo5?style=flat-square&label=Issues&labelColor=343b41"></a>
+    <a href="https://github.com/rincondeaj/PW-GM2-Equipo5/pulls"><img alt="GitHub PRs" src="https://img.shields.io/github/issues-pr/rincondeaj/PW-GM2-Equipo5?style=flat-square&label=Pull%20Requests&labelColor=343b41"></a>
 
 ---
 
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="www.linkedin.com/in/antonio-jesús-merlo-morales-28ba162a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://app.hackthebox.com/profile/YOUR-HTB-ID" target="_blank">
+  <a href="https://referral.hackthebox.com/mzHtPHs" target="_blank">
     <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com" target="_blank">
+  <a href="mailto:antoniojesusmerlomorales10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
